@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  outline: none !important;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Open Sans" ,sans-serif;
+
+}
+
+#wrapper {
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+  background-color: lightgreen;
+
+}
+
+#wrapper .container {
+  background-color: grey;
+
+}

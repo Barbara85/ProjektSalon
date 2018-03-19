@@ -1,0 +1,23 @@
+p {
+  color: red;
+}
+
+#modri {
+  color: blue;
+
+}
+#modri1 {
+  color: blue;
+}
+
+#modri2 {
+  color: blue;
+}
+
+#slika {
+  border: 5px solid green
+}
+
+.image:hover {
+  border: 6px solid red
+}
